@@ -1,6 +1,10 @@
 # Advice Generator App
 
-This project is a simple web application built with TypeScript, React, and Tailwind CSS. It generates random pieces of advice to help users get inspired or motivated.
+This project is a simple web application built with TypeScript, React, It generates random pieces of advice to help users get inspired or motivated.
+
+## Advice Api
+
+[Advice Slip API](https://api.adviceslip.com)
 
 ## Features
 
@@ -10,7 +14,7 @@ This project is a simple web application built with TypeScript, React, and Tailw
 
 ## Demo
 
-You can view a live demo of the project [here](#) [Replace # with your demo link].
+You can view a live demo of the project [Live Demo](https://adivce-generator-mentor.netlify.app/).
 
 ## Original Challenge
 
@@ -22,8 +26,6 @@ This project was completed as a challenge from [Frontend Mentor](https://www.fro
 
 - TypeScript
 - React
-- Tailwind CSS
-- [Other technologies used in your project]
 
 ## Installation
 
@@ -38,14 +40,18 @@ This project was completed as a challenge from [Frontend Mentor](https://www.fro
 
 npm start
 
+## Features
+
+- Generates random advice from an external API.
+- Responsive design.
+
 ## Acknowledgements
 
 This project was inspired by Frontend Mentor.
-Special thanks to [API Provider Name] for providing the advice API.
 
 ## Contact
 
 Louai Khodary
 
-GitHub: [https://github.com/LouaiKhodary13?tab=repositories]
-Email: [louai.z.khodary@gmail.com]
+GitHub: [https://github.com/LouaiKhodary13?tab=repositories](https://github.com/LouaiKhodary13)
+Email: [louai.z.khodary@gmail.com](mailto:louai.z.khodary@gmail.com)
